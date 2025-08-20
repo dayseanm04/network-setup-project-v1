@@ -1,0 +1,1 @@
+This folder contains all visual representations of the network infrastructure. It includes both high-level logical diagrams and detailed physical layouts, providing a clear visual overview of the network topology.
